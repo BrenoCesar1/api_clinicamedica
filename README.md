@@ -1,5 +1,5 @@
 # api_clinicamedica
-API criada para cadastramento de pacientes e medicos, e agendamento de consultas.
+API criada para cadastramento de pacientes, medicos e agendamento de consultas.
 Para executar o projeto e necessário seguir os seguintes passos.
 1. Criar no banco de dados uma data base com nome vollmed_api
 1. Configurar o application properties do projeto com as configurações do seu banco de dados.
